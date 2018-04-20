@@ -3,7 +3,7 @@
 by Wenbo Sun, Jianan Wen, Zixuan Xu
 1. Create dataset by crawlling FaceBook public data.
 2. Build a CNN model to do Classification.
-3. using Machine learning, Facebook data, CNN
+3. using Machine learning, Facebook data, CNN, Tensorflow
 
 References：
 1. Britz, D. (2015, December 11). Implementing a CNN for Text Classification in TensorFlow.
