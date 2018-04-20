@@ -1,5 +1,5 @@
 # INFO7390 final Project
-Facebook Public Data Analysis and Classification Using CNN  
+## Facebook Public Data Analysis and Classification Using CNN  
 by Wenbo Sun, Jianan Wen, Zixuan Xu
 1. Create dataset by crawlling FaceBook public data.
 2. Build a CNN model to do Classification.
