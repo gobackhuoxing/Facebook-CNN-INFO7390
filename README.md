@@ -26,4 +26,4 @@ http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
 from https://github.com/gaussic/text-classification-cnn-rnn
 
 
-Licen
+This repo is under MIT License: https://opensource.org/licenses/MIT
