@@ -1,6 +1,6 @@
 # INFO7390 Final Project
 ## Facebook Public Data Analysis and Classification Using CNN  
-by Wenbo Sun, Jianan Wen, Zixuan Xu
+by Wenbo Sun, Jianan Wen, Zixuan Xu  
 1.Created dataset by crawlling FaceBook public data  
 2.Built and trained a CNN model to do classification   
 3.Used Facebook graph API, CNN(convolutional neutral network), Tensorflow  
