@@ -5,8 +5,8 @@ by Wenbo Sun, Jianan Wen, Zixuan Xu
 2.Built and trained a CNN model to do classification with 89% accuracy  
 3.Used Facebook graph API, CNN(convolutional neutral network), Tensorflow   
 
-Check /INFO7390 Project Portfolio for Jupter notebook version  
-Check /INFO7390FINAL for .py version  
+Check [/INFO7390 Project Portfolio](https://github.com/gobackhuoxing/Facebook-CNN-INFO7390/tree/master/INFO7390%20Project%20Portfolio) for Jupter notebook version  
+Check [/INFO7390FINAL](https://github.com/gobackhuoxing/Facebook-CNN-INFO7390/tree/master/INFO7390FINAL) for .py version  
 Check Data Analysis and Machine Learning on Facebook Public Data.pdf for project report  
 
 References：
