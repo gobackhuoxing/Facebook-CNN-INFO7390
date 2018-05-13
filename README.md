@@ -5,6 +5,10 @@ by Wenbo Sun, Jianan Wen, Zixuan Xu
 2.Built and trained a CNN model to do classification with 89% accuracy  
 3.Used Facebook graph API, CNN(convolutional neutral network), Tensorflow   
 
+Check /INFO7390 Project Portfolio for Jupter notebook version  
+Check /INFO7390FINAL for .py version  
+Check Data Analysis and Machine Learning on Facebook Public Data.pdf for project report  
+
 References：
 1. Britz, D. (2015, December 11). Implementing a CNN for Text Classification in TensorFlow.
 Retrieved from http://www.wildml.com/2015/12/implementing-a-cnn-for-textclassification-
